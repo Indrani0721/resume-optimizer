@@ -1,0 +1,16 @@
+Junior Machine Learning Engineer
+
+We are looking for a Junior ML Engineer to help build and deploy predictive models.
+
+Responsibilities:
+- Develop, train and evaluate machine learning models in Python (scikit-learn, PyTorch)
+- Write production-quality SQL and data pipelines
+- Automate workflows and reporting
+- Communicate model results to product and business stakeholders
+- Design and analyze experiments (A/B tests)
+
+Requirements:
+- Degree in Statistics, Computer Science or related field
+- 1-3 years of experience with Python and SQL
+- Familiarity with version control (Git)
+- Strong communication skills
